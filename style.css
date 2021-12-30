@@ -75,7 +75,7 @@ header a:hover{
 /*Showcase*/
 #showcase{
     min-height: 400px;
-    background: url('../image/golf.jpg') no-repeat 0 -200px;
+    background: url('golf.jpg') no-repeat 0 -200px;
     text-align: center;
     color:#fff;
 }
@@ -114,11 +114,7 @@ header a:hover{
     float: right;
     margin-top: 15px;
 }
-#newsletter input[type = "email"]{
-    padding: 4px;
-    height: 25px;
-    width: 250px;
-}
+
 #headline{
     margin-left: 20px;
     font-size: 50px;
